@@ -1,7 +1,7 @@
 # Mini-Compilateur
 langage appelé «ISIL2020»
-Le but de ce projet est de réaliser un mini-compilateur en effectuant les différentes phases de la compilation à savoir l'analyse lexicale en utilisant l'outil FLEX et l'analyse syntaxique sémantique en utilisant l'outil BISON,
-I.	Description du Langage ISIL2020
+Le but de ce projet est de réaliser un mini-compilateur en effectuant les différentes phases de la compilation à savoir l'analyse lexicale en utilisant l'outil FLEX et l'analyse syntaxique sémantique en utilisant l'outil BISON.
+### I.	Description du Langage ISIL2020
     1 La structure générale 
         Importer des bibliothèques
 
@@ -25,7 +25,7 @@ I.	Description du Langage ISIL2020
       ISIL.io	Pour les instructions IN et OUT
       ISIL.lang	Pour les affectations et les expression arithmétiques
       
-II.2 Déclaration d’une classe
+### II.2 Déclaration d’une classe
       Le langage peut contenir plusieurs classes, qu’on doit définir par le prototype : 
                  Modificateur class $NomDeClasse 
       Tel que 
